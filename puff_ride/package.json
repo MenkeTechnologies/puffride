@@ -23,7 +23,7 @@
     "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.5",
+    "@babel/core": "^7.29.6",
     "react-scripts": "1.1.1"
   },
   "scripts": {
