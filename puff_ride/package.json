@@ -32,5 +32,8 @@
     "preview": "vite preview",
     "test": "vitest run"
   },
-  "type": "module"
+  "type": "module",
+  "resolutions": {
+    "**/workbox-build/glob": "^14.0.2"
+  }
 }
